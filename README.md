@@ -18,7 +18,8 @@ To build the project Android Studio as well as XCode (only on MacOS) need to be 
 The chosen android package name and/or iOs bundle id need to be set in the spotify developer program according to the project settings for the iOS and/or Android projects, other wise Spotify will not authorize the connections. (https://developer.android.com/studio/build/application-id & https://medium.com/@devesu/how-to-change-bundle-identifier-of-ios-app-and-package-name-of-android-app-within-react-native-app-4fbdd6679aa2)
 
 ## Start the App
-After all this setup is done, the project can be built in Android Studio or XCode and/or with the command "flutter run" while a device is connected to the computer.
+After all this setup is done, the project can be built in Android Studio or XCode and/or with the command "flutter run" while a smartphone is connected to the computer.
+If you have never installed a cutom app, you may need to trust/allow the installation on your smartphone.
 
 
 
